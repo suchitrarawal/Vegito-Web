@@ -1,0 +1,40 @@
+[02-Dec-2019 14:05:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/r1vyu3twn0mz/public_html/sabji.infinitysoftech.com/application/controllers/APICI.php on line 59
+[02-Dec-2019 14:05:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/r1vyu3twn0mz/public_html/sabji.infinitysoftech.com/application/controllers/APICI.php on line 59
+[03-Dec-2019 05:40:31 UTC] PHP Fatal error:  Cannot use [] for reading in /home/r1vyu3twn0mz/public_html/sabji.infinitysoftech.com/application/controllers/APICI.php on line 66
+[03-Dec-2019 05:40:31 UTC] PHP Fatal error:  Cannot use [] for reading in /home/r1vyu3twn0mz/public_html/sabji.infinitysoftech.com/application/controllers/APICI.php on line 66
+[03-Dec-2019 05:40:50 UTC] PHP Fatal error:  Cannot use [] for reading in /home/r1vyu3twn0mz/public_html/sabji.infinitysoftech.com/application/controllers/APICI.php on line 66
+[03-Dec-2019 05:40:50 UTC] PHP Fatal error:  Cannot use [] for reading in /home/r1vyu3twn0mz/public_html/sabji.infinitysoftech.com/application/controllers/APICI.php on line 66
+[16-Dec-2019 06:55:31 UTC] PHP Fatal error:  Cannot redeclare Model_users::updateEmp() in /home/xk7h9c4znavd/public_html/application/models/Model_users.php on line 237
+[21-Dec-2019 07:22:39 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:22:39 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:22:56 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:22:56 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:23:54 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:23:54 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:24:33 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:24:33 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:25:02 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:25:02 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:25:54 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:25:54 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:29:49 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:29:49 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:31:03 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:31:03 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:32:00 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:32:00 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:32:21 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:32:21 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:32:36 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:33:23 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:33:23 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:35:33 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:35:33 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:36:16 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:36:16 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:48:39 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:48:39 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:49:38 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:49:38 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:55:08 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
+[21-Dec-2019 07:55:08 UTC] PHP Fatal error:  Cannot redeclare APICI::order_details() in /home/xk7h9c4znavd/public_html/application/controllers/APICI.php on line 520
